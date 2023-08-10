@@ -24,6 +24,12 @@ html{
     background: linear-gradient(to right, #CFDEF3, #E0EAFC); 
 }
 
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: -50px;
+}
+
 section{
     display: flex;
     justify-content: flex-start;
